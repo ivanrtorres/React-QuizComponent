@@ -17,4 +17,4 @@ class QuizQuestion extends Component {
   }
 }
 
-export default QuizQuestions;
+export default QuizQuestion;
